@@ -4,6 +4,7 @@ unprofessional programmer, if one at all
 ## Languages
 ### Known
 [![Python](https://img.shields.io/badge/-python-7952B3?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
+[![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org)
 
 ### Learning
 [![Lua](https://img.shields.io/badge/-Lua-000081?style=for-the-badge&logo=Lua&logoColor=white)](https://www.lua.org/)
