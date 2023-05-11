@@ -10,6 +10,7 @@ unprofessional programmer, if one at all
 [![Lua](https://img.shields.io/badge/-Lua-000081?style=for-the-badge&logo=Lua&logoColor=white)](https://www.lua.org/)
 [![HTML](https://img.shields.io/badge/-HTML-d63d0f?style=for-the-badge&logo=HTML5&logoColor=white)](https://html.com/)
 [![CSS](https://img.shields.io/badge/-CSS-2299f8?style=for-the-badge&logo=CSS3&logoColor=white)](https://www.w3schools.com/css/)
+[![Javascript](https://img.shields.io/badge/-Javascript-2299f8?style=for-the-badge&logo=Javascript&logoColor=white&color=green)](https://www.w3schools.com/jsrEF/default.asp)
 
 ## Tools
 [![VSC](https://img.shields.io/badge/-VSC-0079d0?style=for-the-badge&logo=VisualStudioCode&logoColor=white)](https://code.visualstudio.com/)
