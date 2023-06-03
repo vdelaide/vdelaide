@@ -1,9 +1,7 @@
-heya i'm **adelaide** :3
+heya i'm **adelaide** :3  
 unprofessional programmer
 
 ## Languages
-### Known
-[![Python](https://img.shields.io/badge/-python-7952B3?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
 
 ### Learning
 [![Lua](https://img.shields.io/badge/-Lua-000081?style=for-the-badge&logo=Lua&logoColor=white)](https://www.lua.org/)
@@ -14,5 +12,5 @@ unprofessional programmer
 ## Tools
 [![VSC](https://img.shields.io/badge/-VSC-0079d0?style=for-the-badge&logo=VisualStudioCode&logoColor=white)](https://code.visualstudio.com/)
 [![Github Desktop](https://img.shields.io/badge/-Github_Desktop-7c3eec?style=for-the-badge&logo=Github&logoColor=white)](https://desktop.github.com/)
-[![Firefox](https://img.shields.io/badge/-Firefox-FF7139?style=for-the-badge&logo=FirefoxBrowser&logoColor=white)](https://www.mozilla.org/en-US/firefox/new/)
 [![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org)
+[![Figma](https://img.shields.io/badge/Figma-FF3366?style=for-the-badge&logo=Figma&logoColor=white)](https://www.figma.com/@vdelaide)
