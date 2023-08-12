@@ -1,5 +1,5 @@
 # vdelaide
-Unprofessional programmer :3
+Unprofessional programmer
 
 ## Languages & Libraries
 
