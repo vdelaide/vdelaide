@@ -10,7 +10,7 @@ Unprofessional programmer
 ### Learning
 [![Javascript](https://img.shields.io/badge/-Javascript-2299f8?style=for-the-badge&logo=Javascript&logoColor=white&color=darkgreen)](https://www.w3schools.com/jsrEF/default.asp)
 [![React](https://img.shields.io/badge/-React-23272f?style=for-the-badge&logo=React&logoColor=blue)](https://react.dev/)
-[![SvelteKit](https://img.shields.io/badge/-SvelteKit-ff3e00?style=for-the-badge&logo=Svelte&logoColor=white)](https://kit.svelte.dev/)
+[![SvelteKit](https://img.shields.io/badge/-Svelte-ff3e00?style=for-the-badge&logo=Svelte&logoColor=white)](https://svelte.dev/)
 
 ## Tools
 [![VSC](https://img.shields.io/badge/-VSC-0079d0?style=for-the-badge&logo=VisualStudioCode&logoColor=white)](https://code.visualstudio.com/)
